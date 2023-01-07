@@ -1,0 +1,11 @@
+C:\Users\Mckee\Documents\Coding\C#\washer\washer\bin\Debug\washer.exe.config
+C:\Users\Mckee\Documents\Coding\C#\washer\washer\bin\Debug\washer.exe
+C:\Users\Mckee\Documents\Coding\C#\washer\washer\bin\Debug\washer.pdb
+C:\Users\Mckee\Documents\Coding\C#\washer\washer\obj\Debug\washer.csprojAssemblyReference.cache
+C:\Users\Mckee\Documents\Coding\C#\washer\washer\obj\Debug\washer.WasherForm.resources
+C:\Users\Mckee\Documents\Coding\C#\washer\washer\obj\Debug\washer.Properties.Resources.resources
+C:\Users\Mckee\Documents\Coding\C#\washer\washer\obj\Debug\washer.csproj.GenerateResource.cache
+C:\Users\Mckee\Documents\Coding\C#\washer\washer\obj\Debug\washer.csproj.CoreCompileInputs.cache
+C:\Users\Mckee\Documents\Coding\C#\washer\washer\obj\Debug\washer.exe
+C:\Users\Mckee\Documents\Coding\C#\washer\washer\obj\Debug\washer.pdb
+C:\Users\Mckee\Documents\Coding\C#\washer\washer\obj\Debug\washer.csproj.ResolveComReference.cache

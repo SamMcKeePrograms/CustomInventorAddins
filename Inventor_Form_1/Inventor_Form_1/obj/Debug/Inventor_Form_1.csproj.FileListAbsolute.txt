@@ -1,0 +1,10 @@
+C:\Users\Mckee\Documents\Coding\C#\Inventor_Form_1\Inventor_Form_1\bin\Debug\Inventor_Form_1.exe.config
+C:\Users\Mckee\Documents\Coding\C#\Inventor_Form_1\Inventor_Form_1\bin\Debug\Inventor_Form_1.exe
+C:\Users\Mckee\Documents\Coding\C#\Inventor_Form_1\Inventor_Form_1\bin\Debug\Inventor_Form_1.pdb
+C:\Users\Mckee\Documents\Coding\C#\Inventor_Form_1\Inventor_Form_1\obj\Debug\Inventor_Form_1.csprojAssemblyReference.cache
+C:\Users\Mckee\Documents\Coding\C#\Inventor_Form_1\Inventor_Form_1\obj\Debug\Inventor_Form_1.Properties.Resources.resources
+C:\Users\Mckee\Documents\Coding\C#\Inventor_Form_1\Inventor_Form_1\obj\Debug\Inventor_Form_1.csproj.GenerateResource.cache
+C:\Users\Mckee\Documents\Coding\C#\Inventor_Form_1\Inventor_Form_1\obj\Debug\Inventor_Form_1.csproj.CoreCompileInputs.cache
+C:\Users\Mckee\Documents\Coding\C#\Inventor_Form_1\Inventor_Form_1\obj\Debug\Inventor_Form_1.exe
+C:\Users\Mckee\Documents\Coding\C#\Inventor_Form_1\Inventor_Form_1\obj\Debug\Inventor_Form_1.pdb
+C:\Users\Mckee\Documents\Coding\C#\Inventor_Form_1\Inventor_Form_1\obj\Debug\Inventor_Form_1.FormRectangular.resources

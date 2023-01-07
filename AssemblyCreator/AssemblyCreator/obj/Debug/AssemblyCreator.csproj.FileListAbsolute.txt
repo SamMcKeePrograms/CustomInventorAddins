@@ -1,0 +1,10 @@
+C:\Users\Mckee\Documents\Coding\C#\AssemblyCreator\AssemblyCreator\bin\Debug\AssemblyCreator.exe.config
+C:\Users\Mckee\Documents\Coding\C#\AssemblyCreator\AssemblyCreator\bin\Debug\AssemblyCreator.exe
+C:\Users\Mckee\Documents\Coding\C#\AssemblyCreator\AssemblyCreator\bin\Debug\AssemblyCreator.pdb
+C:\Users\Mckee\Documents\Coding\C#\AssemblyCreator\AssemblyCreator\obj\Debug\AssemblyCreator.csprojAssemblyReference.cache
+C:\Users\Mckee\Documents\Coding\C#\AssemblyCreator\AssemblyCreator\obj\Debug\AssemblyCreator.AssemblyForm.resources
+C:\Users\Mckee\Documents\Coding\C#\AssemblyCreator\AssemblyCreator\obj\Debug\AssemblyCreator.Properties.Resources.resources
+C:\Users\Mckee\Documents\Coding\C#\AssemblyCreator\AssemblyCreator\obj\Debug\AssemblyCreator.csproj.GenerateResource.cache
+C:\Users\Mckee\Documents\Coding\C#\AssemblyCreator\AssemblyCreator\obj\Debug\AssemblyCreator.csproj.CoreCompileInputs.cache
+C:\Users\Mckee\Documents\Coding\C#\AssemblyCreator\AssemblyCreator\obj\Debug\AssemblyCreator.exe
+C:\Users\Mckee\Documents\Coding\C#\AssemblyCreator\AssemblyCreator\obj\Debug\AssemblyCreator.pdb

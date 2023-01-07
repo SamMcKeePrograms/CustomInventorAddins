@@ -1,0 +1,10 @@
+C:\Users\Mckee\Documents\Coding\C#\FormCylinder\FormCylinder\bin\Debug\FormCylinder.exe.config
+C:\Users\Mckee\Documents\Coding\C#\FormCylinder\FormCylinder\bin\Debug\FormCylinder.exe
+C:\Users\Mckee\Documents\Coding\C#\FormCylinder\FormCylinder\bin\Debug\FormCylinder.pdb
+C:\Users\Mckee\Documents\Coding\C#\FormCylinder\FormCylinder\obj\Debug\FormCylinder.csprojAssemblyReference.cache
+C:\Users\Mckee\Documents\Coding\C#\FormCylinder\FormCylinder\obj\Debug\FormCylinder.FormCylinder.resources
+C:\Users\Mckee\Documents\Coding\C#\FormCylinder\FormCylinder\obj\Debug\FormCylinder.Properties.Resources.resources
+C:\Users\Mckee\Documents\Coding\C#\FormCylinder\FormCylinder\obj\Debug\FormCylinder.csproj.GenerateResource.cache
+C:\Users\Mckee\Documents\Coding\C#\FormCylinder\FormCylinder\obj\Debug\FormCylinder.csproj.CoreCompileInputs.cache
+C:\Users\Mckee\Documents\Coding\C#\FormCylinder\FormCylinder\obj\Debug\FormCylinder.exe
+C:\Users\Mckee\Documents\Coding\C#\FormCylinder\FormCylinder\obj\Debug\FormCylinder.pdb

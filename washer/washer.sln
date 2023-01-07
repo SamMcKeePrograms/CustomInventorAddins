@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1758
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "washer", "washer\washer.csproj", "{6C5D7E8F-4923-482F-A3BF-2C3400A2432E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C5D7E8F-4923-482F-A3BF-2C3400A2432E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C5D7E8F-4923-482F-A3BF-2C3400A2432E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C5D7E8F-4923-482F-A3BF-2C3400A2432E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C5D7E8F-4923-482F-A3BF-2C3400A2432E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A48D79C-640A-4685-9BB5-1584AB4A5E01}
+	EndGlobalSection
+EndGlobal
