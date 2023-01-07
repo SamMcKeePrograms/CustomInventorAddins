@@ -1,0 +1,22 @@
+C:\Users\Mckee\Documents\Coding\C#\InventorAddIn_UWP_v1\InventorAddIn_UWP_v1\bin\Debug\InventorAddIn_UWP_v1.dll
+C:\Users\Mckee\Documents\Coding\C#\InventorAddIn_UWP_v1\InventorAddIn_UWP_v1\bin\Debug\InventorAddIn_UWP_v1.pdb
+C:\Users\Mckee\Documents\Coding\C#\InventorAddIn_UWP_v1\InventorAddIn_UWP_v1\bin\Debug\autodesk.inventor.interop.dll
+C:\Users\Mckee\Documents\Coding\C#\InventorAddIn_UWP_v1\InventorAddIn_UWP_v1\obj\Debug\InventorAddIn_UWP_v1.csprojAssemblyReference.cache
+C:\Users\Mckee\Documents\Coding\C#\InventorAddIn_UWP_v1\InventorAddIn_UWP_v1\obj\Debug\InventorAddIn_UWP_v1.csproj.CoreCompileInputs.cache
+C:\Users\Mckee\Documents\Coding\C#\InventorAddIn_UWP_v1\InventorAddIn_UWP_v1\obj\Debug\InventorAddIn_UWP_v1.csproj.CopyComplete
+C:\Users\Mckee\Documents\Coding\C#\InventorAddIn_UWP_v1\InventorAddIn_UWP_v1\obj\Debug\InventorAddIn_UWP_v1.dll
+C:\Users\Mckee\Documents\Coding\C#\InventorAddIn_UWP_v1\InventorAddIn_UWP_v1\obj\Debug\InventorAddIn_UWP_v1.pdb
+C:\Users\Mckee\Documents\Coding\C#\InventorAddIn_UWP_v1\InventorAddIn_UWP_v1\bin\Debug\Inventor_Form_1.exe
+C:\Users\Mckee\Documents\Coding\C#\InventorAddIn_UWP_v1\InventorAddIn_UWP_v1\bin\Debug\Inventor_Form_1.pdb
+C:\Users\Mckee\Documents\Coding\C#\InventorAddIn_UWP_v1\InventorAddIn_UWP_v1\bin\Debug\Inventor_Form_1.exe.config
+C:\Users\Mckee\AppData\Roaming\Autodesk\ApplicationPlugins\InventorAddIn_UWP_v1.dll
+C:\Users\Mckee\AppData\Roaming\Autodesk\ApplicationPlugins\InventorAddIn_UWP_v1.pdb
+C:\Users\Mckee\AppData\Roaming\Autodesk\ApplicationPlugins\InventorAddin\InventorAddIn_UWP_v1.dll
+C:\Users\Mckee\AppData\Roaming\Autodesk\ApplicationPlugins\InventorAddin\InventorAddIn_UWP_v1.pdb
+C:\Program Files\Autodesk\Inventor 2019\Bin\InventorAddIn_UWP_v1.dll
+C:\Program Files\Autodesk\Inventor 2019\Bin\InventorAddIn_UWP_v1.pdb
+C:\Users\Mckee\Documents\Coding\C#\InventorAddIn_UWP_v1_Dad_Program\InventorAddIn_UWP_v1\obj\Debug\InventorAddIn_UWP_v1.csprojAssemblyReference.cache
+C:\Users\Mckee\Documents\Coding\C#\InventorAddIn_UWP_v1_Dad_Program\InventorAddIn_UWP_v1\obj\Debug\InventorAddIn_UWP_v1.csproj.CoreCompileInputs.cache
+C:\Users\Mckee\Documents\Coding\C#\InventorAddIn_UWP_v1_Dad_Program\InventorAddIn_UWP_v1\obj\Debug\InventorAddIn_UWP_v1.csproj.CopyComplete
+C:\Users\Mckee\Documents\Coding\C#\InventorAddIn_UWP_v1_Dad_Program\InventorAddIn_UWP_v1\obj\Debug\InventorAddIn_UWP_v1.dll
+C:\Users\Mckee\Documents\Coding\C#\InventorAddIn_UWP_v1_Dad_Program\InventorAddIn_UWP_v1\obj\Debug\InventorAddIn_UWP_v1.pdb

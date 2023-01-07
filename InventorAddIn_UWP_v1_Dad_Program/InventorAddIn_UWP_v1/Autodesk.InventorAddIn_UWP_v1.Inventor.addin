@@ -1,0 +1,14 @@
+<Addin Type="Standard">
+  <!--Created for Autodesk Inventor Version 23.0-->
+  <ClassId>{f68fd93a-3324-43ec-8b9d-9ec93f49f114}</ClassId>
+  <ClientId>{f68fd93a-3324-43ec-8b9d-9ec93f49f114}</ClientId>
+  <DisplayName>InventorAddIn_UWP_v1</DisplayName>
+  <Description>InventorAddIn_UWP_v1</Description>
+  <Assembly>InventorAddIn_UWP_v1.dll</Assembly>
+  <LoadOnStartUp>1</LoadOnStartUp>
+  <UserUnloadable>1</UserUnloadable>
+  <Hidden>0</Hidden>
+  <SupportedSoftwareVersionGreaterThan>22..</SupportedSoftwareVersionGreaterThan>
+  <DataVersion>1</DataVersion>
+  <UserInterfaceVersion>1</UserInterfaceVersion>
+</Addin>
